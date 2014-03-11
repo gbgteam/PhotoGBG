@@ -41,12 +41,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="Entities\IPhoto.cs" />
+    <Compile Include="Entities\IPhotoTagUnion.cs" />
+    <Compile Include="Entities\ITag.cs" />
+    <Compile Include="Entities\IUser.cs" />
+    <Compile Include="IOperationResponse.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repository\IPhotoRepository.cs" />
+    <Compile Include="Repository\ITagRepository.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
