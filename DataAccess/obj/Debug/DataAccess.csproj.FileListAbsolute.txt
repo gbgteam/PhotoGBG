@@ -1,0 +1,2 @@
+C:\Users\Axe\Documents\GBG\PhotoGBG\DataAccess\bin\Debug\DataAccess.exe.config
+C:\Users\Synergo\Downloads\PhotoGBG-master\PhotoGBG-master\DataAccess\bin\Debug\DataAccess.exe.config

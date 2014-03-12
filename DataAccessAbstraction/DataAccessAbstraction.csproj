@@ -45,6 +45,7 @@
     <Compile Include="Entities\IPhotoTagUnion.cs" />
     <Compile Include="Entities\ITag.cs" />
     <Compile Include="Entities\IUser.cs" />
+    <Compile Include="Entities\IUserAndPhotographer.cs" />
     <Compile Include="IOperationResponse.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repository\IPhotoRepository.cs" />

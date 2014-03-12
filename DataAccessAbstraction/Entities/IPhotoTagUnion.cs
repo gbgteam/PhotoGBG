@@ -8,7 +8,7 @@ namespace DataAccessAbstraction.Entities
 {
     public interface IPhotoTagUnion
     {
-        string PhotoId { get; set; }
+        long PhotoId { get; set; }
         long TagId { get; set; }
     }
 }
