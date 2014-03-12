@@ -4,3 +4,6 @@ c:\users\axe\documents\visual studio 2012\Projects\EncryptDecrypt\EncryptDecrypt
 c:\users\axe\documents\visual studio 2012\Projects\EncryptDecrypt\EncryptDecrypt\bin\Debug\EncryptDecrypt.pdb
 c:\users\axe\documents\visual studio 2012\Projects\EncryptDecrypt\EncryptDecrypt\obj\Debug\EncryptDecrypt.exe
 c:\users\axe\documents\visual studio 2012\Projects\EncryptDecrypt\EncryptDecrypt\obj\Debug\EncryptDecrypt.pdb
+C:\Users\Axe\Documents\GBG\PhotoGBG\EncryptDecrypt\EncryptDecrypt\bin\Debug\EncryptDecrypt.exe.config
+C:\Users\Axe\Documents\GBG\PhotoGBG\EncryptDecrypt\EncryptDecrypt\obj\Debug\EncryptDecrypt.exe
+C:\Users\Axe\Documents\GBG\PhotoGBG\EncryptDecrypt\EncryptDecrypt\obj\Debug\EncryptDecrypt.pdb

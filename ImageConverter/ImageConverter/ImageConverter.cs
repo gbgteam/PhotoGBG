@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Drawing;
+using System.Drawing.Imaging;
+using System.Windows.Forms;
 
 namespace ImageConverter
 {
@@ -49,12 +51,12 @@ namespace ImageConverter
             return null;
         }
 
-        static void main ()
+        static void Main()
         {
-            VaryQualityLevel();
+            ImageConverter ic = new ImageConverter();
+            ic.VaryQualityLevel();
         }
         
     }
 }
-    }
-}
+
