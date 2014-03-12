@@ -1,0 +1,6 @@
+c:\users\axe\documents\visual studio 2012\Projects\EncryptDecrypt\EncryptDecrypt\bin\Debug\EncryptDecrypt.exe.config
+c:\users\axe\documents\visual studio 2012\Projects\EncryptDecrypt\EncryptDecrypt\obj\Debug\EncryptDecrypt.csprojResolveAssemblyReference.cache
+c:\users\axe\documents\visual studio 2012\Projects\EncryptDecrypt\EncryptDecrypt\bin\Debug\EncryptDecrypt.exe
+c:\users\axe\documents\visual studio 2012\Projects\EncryptDecrypt\EncryptDecrypt\bin\Debug\EncryptDecrypt.pdb
+c:\users\axe\documents\visual studio 2012\Projects\EncryptDecrypt\EncryptDecrypt\obj\Debug\EncryptDecrypt.exe
+c:\users\axe\documents\visual studio 2012\Projects\EncryptDecrypt\EncryptDecrypt\obj\Debug\EncryptDecrypt.pdb
