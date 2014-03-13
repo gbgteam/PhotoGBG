@@ -1,0 +1,5 @@
+C:\Users\Axe\Documents\GBG\PhotoGBG\ImageConverter\ImageConverter\obj\x86\Debug\ImageConverter.csprojResolveAssemblyReference.cache
+C:\Users\Axe\Documents\GBG\PhotoGBG\ImageConverter\ImageConverter\bin\Debug\ImageConverter.exe
+C:\Users\Axe\Documents\GBG\PhotoGBG\ImageConverter\ImageConverter\bin\Debug\ImageConverter.pdb
+C:\Users\Axe\Documents\GBG\PhotoGBG\ImageConverter\ImageConverter\obj\x86\Debug\ImageConverter.exe
+C:\Users\Axe\Documents\GBG\PhotoGBG\ImageConverter\ImageConverter\obj\x86\Debug\ImageConverter.pdb
