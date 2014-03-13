@@ -1,0 +1,2 @@
+E:\proiecte\PhotoGBG\PhotoGBG\Web.Azure\bin\Debug\ServiceConfiguration.cscfg
+E:\proiecte\PhotoGBG\PhotoGBG\Web.Azure\bin\Debug\ServiceDefinition.csdef

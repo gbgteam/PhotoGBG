@@ -1,0 +1,5 @@
+E:\proiecte\PhotoGBG\PhotoGBG\DataAccessAbstraction\bin\Debug\DataAccessAbstraction.dll.config
+E:\proiecte\PhotoGBG\PhotoGBG\DataAccessAbstraction\bin\Debug\DataAccessAbstraction.dll
+E:\proiecte\PhotoGBG\PhotoGBG\DataAccessAbstraction\bin\Debug\DataAccessAbstraction.pdb
+E:\proiecte\PhotoGBG\PhotoGBG\DataAccessAbstraction\obj\Debug\DataAccessAbstraction.dll
+E:\proiecte\PhotoGBG\PhotoGBG\DataAccessAbstraction\obj\Debug\DataAccessAbstraction.pdb

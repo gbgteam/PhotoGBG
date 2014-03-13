@@ -1,0 +1,6 @@
+E:\proiecte\PhotoGBG\PhotoGBG\Utilities\bin\Debug\Utilities.dll.config
+E:\proiecte\PhotoGBG\PhotoGBG\Utilities\bin\Debug\Utilities.dll
+E:\proiecte\PhotoGBG\PhotoGBG\Utilities\bin\Debug\Utilities.pdb
+E:\proiecte\PhotoGBG\PhotoGBG\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+E:\proiecte\PhotoGBG\PhotoGBG\Utilities\obj\Debug\Utilities.dll
+E:\proiecte\PhotoGBG\PhotoGBG\Utilities\obj\Debug\Utilities.pdb

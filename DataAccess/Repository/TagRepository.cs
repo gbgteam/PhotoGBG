@@ -50,6 +50,11 @@ namespace DataAccess.Repository
             }
         }
 
+        public IOperationResponse<ITag> Edit(ITag tag)
+        {
+            return null;
+        }
+
         public IOperationResponse<List<ITag>> GetAllPredefinedTags()
         {
             try
@@ -57,7 +62,10 @@ namespace DataAccess.Repository
                 List<ITag> list = new List<ITag>();
                 DataSet ds = new DataSet();
 
-                System.Data.SqlClient();
+                SqlConnection connection = new SqlConnection(_connectionString);
+                SqlCommand command = new SqlCommand(GET_ALL_TAGS, connection);
+                
+                //System.Data.SqlClient();
 
                 return new OperationResponse<List<ITag>>()
                 {
@@ -73,6 +81,11 @@ namespace DataAccess.Repository
                 };
             }
      
+        }
+
+        public IOperationResponse Delete(long id)
+        {
+            return null;
         }
     }
 }

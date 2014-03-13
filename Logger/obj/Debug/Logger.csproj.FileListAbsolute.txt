@@ -1,0 +1,15 @@
+E:\proiecte\PhotoGBG\PhotoGBG\Logger\bin\Debug\Logger.dll.config
+E:\proiecte\PhotoGBG\PhotoGBG\Logger\bin\Debug\Logger.dll
+E:\proiecte\PhotoGBG\PhotoGBG\Logger\bin\Debug\Logger.pdb
+E:\proiecte\PhotoGBG\PhotoGBG\Logger\bin\Debug\log4net.dll
+E:\proiecte\PhotoGBG\PhotoGBG\Logger\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+E:\proiecte\PhotoGBG\PhotoGBG\Logger\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+E:\proiecte\PhotoGBG\PhotoGBG\Logger\bin\Debug\Microsoft.Data.OData.dll
+E:\proiecte\PhotoGBG\PhotoGBG\Logger\bin\Debug\Microsoft.Data.Edm.dll
+E:\proiecte\PhotoGBG\PhotoGBG\Logger\bin\Debug\System.Spatial.dll
+E:\proiecte\PhotoGBG\PhotoGBG\Logger\bin\Debug\log4net.xml
+E:\proiecte\PhotoGBG\PhotoGBG\Logger\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+E:\proiecte\PhotoGBG\PhotoGBG\Logger\bin\Debug\Microsoft.WindowsAzure.StorageClient.xml
+E:\proiecte\PhotoGBG\PhotoGBG\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+E:\proiecte\PhotoGBG\PhotoGBG\Logger\obj\Debug\Logger.dll
+E:\proiecte\PhotoGBG\PhotoGBG\Logger\obj\Debug\Logger.pdb

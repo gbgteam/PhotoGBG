@@ -6,9 +6,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Logger
+/*namespace Logger
 {
-    internal class LogServiceContext : TableServiceContext
+    public class LogServiceContext : TableServiceContext
     {
         public LogServiceContext(string baseAddress, StorageCredentials credentials)
             : base(baseAddress, credentials)
@@ -16,10 +16,11 @@ namespace Logger
             
         }
 
-        internal void Log(LogEntry logEntry)
+        public void Log(LogEntry logEntry)
         {
-            AddObject("LogEntries", logEntry);
-            SaveChanges();
+            //AddObject("LogEntries", logEntry);
+            //SaveChanges();
         }
     }
 }
+*/

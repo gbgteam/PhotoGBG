@@ -42,9 +42,9 @@ namespace Logger
             }
             else ipAddress = "NA";
             var log = LogManager.GetLogger("server-app");
-            LoggingEvent logEvent = new LoggingEvent(typeof(PhotoGBGLogger),log.Logger.Repository,log.Logger.Name,Level.Info, Message,null);
-            logEvent.Properties[ipAddress] = ipAddress;
-            log.Logger.Log(logEvent);
+            //LoggingEvent logEvent = new LoggingEvent(typeof(PhotoGBGLogger),log.Logger.Repository,log.Logger.Name,Level.Info, Message,null);
+            //logEvent.Properties[ipAddress] = ipAddress;
+            //log.Logger.Log(logEvent);
         }
     }
 }

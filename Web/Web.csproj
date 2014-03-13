@@ -180,6 +180,18 @@
       <Project>{78012ffb-e1ef-4b0c-b015-867f16f08b21}</Project>
       <Name>DataAccess</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Logger\Logger.csproj">
+      <Project>{69970785-6388-4a4d-9748-52505e3deb18}</Project>
+      <Name>Logger</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Storage\Storage.csproj">
+      <Project>{140b2252-82ae-4dfb-ba29-1fa7bbac4492}</Project>
+      <Name>Storage</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Utilities\Utilities.csproj">
+      <Project>{011b7cd7-1141-40b9-8948-93b6c9087fed}</Project>
+      <Name>Utilities</Name>
+    </ProjectReference>
     <ProjectReference Include="..\ViewModel\ViewModel.csproj">
       <Project>{9766fe21-da17-427b-a13c-ba52c97eddc5}</Project>
       <Name>ViewModel</Name>
