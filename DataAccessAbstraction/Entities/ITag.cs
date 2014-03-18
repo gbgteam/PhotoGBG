@@ -8,7 +8,7 @@ namespace DataAccessAbstraction.Entities
 {
     public interface ITag
     {
-        long Id { get; set; }
+        int Id { get; set; }
         string Name { get; set; }
         string AddedBy { get; set; } //username field from user db
     }

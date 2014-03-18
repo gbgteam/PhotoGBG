@@ -6,3 +6,6 @@ E:\proiecte\PhotoGBG\PhotoGBG\DataAccess\bin\Debug\DataAccessAbstraction.pdb
 E:\proiecte\PhotoGBG\PhotoGBG\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
 E:\proiecte\PhotoGBG\PhotoGBG\DataAccess\obj\Debug\DataAccess.dll
 E:\proiecte\PhotoGBG\PhotoGBG\DataAccess\obj\Debug\DataAccess.pdb
+E:\proiecte\PhotoGBG\PhotoGBG\DataAccess\bin\Debug\AutoMapper.Net4.dll
+E:\proiecte\PhotoGBG\PhotoGBG\DataAccess\bin\Debug\AutoMapper.dll
+E:\proiecte\PhotoGBG\PhotoGBG\DataAccess\bin\Debug\AutoMapper.xml

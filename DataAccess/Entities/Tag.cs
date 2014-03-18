@@ -9,7 +9,7 @@ namespace DataAccess.Entities
 {
     public class Tag:ITag
     {
-        public long Id
+        public int Id
         {
             get;
             set;

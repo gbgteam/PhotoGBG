@@ -14,3 +14,6 @@ E:\proiecte\PhotoGBG\PhotoGBG\Storage\bin\Debug\Microsoft.WindowsAzure.Diagnosti
 E:\proiecte\PhotoGBG\PhotoGBG\Storage\obj\Debug\Storage.csprojResolveAssemblyReference.cache
 E:\proiecte\PhotoGBG\PhotoGBG\Storage\obj\Debug\Storage.dll
 E:\proiecte\PhotoGBG\PhotoGBG\Storage\obj\Debug\Storage.pdb
+E:\proiecte\PhotoGBG\PhotoGBG\Storage\bin\Debug\AutoMapper.Net4.dll
+E:\proiecte\PhotoGBG\PhotoGBG\Storage\bin\Debug\AutoMapper.dll
+E:\proiecte\PhotoGBG\PhotoGBG\Storage\bin\Debug\AutoMapper.xml

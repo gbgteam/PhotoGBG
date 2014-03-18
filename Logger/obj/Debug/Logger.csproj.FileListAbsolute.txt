@@ -13,3 +13,6 @@ E:\proiecte\PhotoGBG\PhotoGBG\Logger\bin\Debug\Microsoft.WindowsAzure.StorageCli
 E:\proiecte\PhotoGBG\PhotoGBG\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
 E:\proiecte\PhotoGBG\PhotoGBG\Logger\obj\Debug\Logger.dll
 E:\proiecte\PhotoGBG\PhotoGBG\Logger\obj\Debug\Logger.pdb
+E:\proiecte\PhotoGBG\PhotoGBG\Logger\bin\Debug\AutoMapper.Net4.dll
+E:\proiecte\PhotoGBG\PhotoGBG\Logger\bin\Debug\AutoMapper.dll
+E:\proiecte\PhotoGBG\PhotoGBG\Logger\bin\Debug\AutoMapper.xml

@@ -2,6 +2,34 @@
     ViewBag.Title = "Index";
     Layout = "~/Views/_LayoutPage1.cshtml";
 }
-<div>
+
+<script src="@Url.Content("~/Script/Tags/TagsModule.js")" type="text/javascript"> </script>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        TagsModule.getInstance().init(@(Html.Raw(Json.Encode(Model))),'body',true);
+    });
+</script>
+
+<div id="body">
     <h2>Index</h2>
+    <div>
+        <table>
+            <thead>
+                <tr>
+                    <td>Id</td>
+                    <td>Name</td>
+                    <td>AddedBy</td>
+                </tr>
+            </thead>
+            <tbody data-bind="foreach: Tags">
+                <tr>
+                    <td data-bind="text: Id"></td>
+                    <td data-bind="text: Name"></td>
+                    <td data-bind="text: AddedBy"></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    
 </div>

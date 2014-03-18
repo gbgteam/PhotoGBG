@@ -171,3 +171,6 @@ E:\proiecte\PhotoGBG\PhotoGBG\Web\bin\zh-Hant\System.Spatial.resources.dll
 E:\proiecte\PhotoGBG\PhotoGBG\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
 E:\proiecte\PhotoGBG\PhotoGBG\Web\obj\Debug\Web.dll
 E:\proiecte\PhotoGBG\PhotoGBG\Web\obj\Debug\Web.pdb
+E:\proiecte\PhotoGBG\PhotoGBG\Web\bin\AutoMapper.Net4.dll
+E:\proiecte\PhotoGBG\PhotoGBG\Web\bin\AutoMapper.dll
+E:\proiecte\PhotoGBG\PhotoGBG\Web\bin\AutoMapper.xml
