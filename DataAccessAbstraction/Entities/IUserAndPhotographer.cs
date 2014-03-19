@@ -14,6 +14,6 @@ namespace DataAccessAbstraction.Entities
         string Country { get; set; }
         string Telephone { get; set; }
         string Description { get; set; }
-        Boolean Photographer { get; set; }
+        int Role { get; set; }
     }
 }

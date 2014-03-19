@@ -4,15 +4,49 @@
 <head>
     <meta name="viewport" content="width=device-width" />
     <title>@ViewBag.Title</title>
+
+    <link rel="stylesheet" href="@Url.Content("~/Content/bootstrap.min.css")" type="text/css"/>
+    <link rel="stylesheet" href="@Url.Content("~/Content/bootstrap-responsive.min.css")" type="text/css"/>
+    <link rel="stylesheet" href="@Url.Content("~/Content/app.css")" type="text/css"/>
+
     <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
     <script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
     <script src="http://cdnjs.cloudflare.com/ajax/libs/knockout/3.1.0/knockout-min.js"></script>
+    <script src="@Url.Content("~/Script/Utils/bootstrap.js")" type="text/javascript"> </script>
+    <script src="@Url.Content("~/Script/Utils/bootstrap.min.js")" type="text/javascript"> </script>
+    <script type="text/javascript">
+        $.ajaxSetup({ cache: false });
+        </script>
 </head>
 <body>
-    <div>
-        <a href="~/">Index</a>
-        <a href="~/account/login">Login</a>
+    <div class="navbar navbar-inverse">
+        <div class="navbar-inner">
+            <div class="container">
+
+                <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+                <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </a>
+
+                <a class="brand" href="~/">PhotoGBG</a>
+
+                <div class="nav-collapse collapse">
+
+                    <ul class="nav">
+                        <li class="active"><a href="~/">Home</a></li>
+                        <li><a href="~/account/login">Login</a></li>
+                    </ul>
+                    <form class="navbar-search pull-right">
+                        <input type="text" class="search-query" placeholder="Search">
+                    </form>
+                </div>
+
+            </div>
+        </div>
     </div>
+
     <div>
         @RenderBody()
     </div>

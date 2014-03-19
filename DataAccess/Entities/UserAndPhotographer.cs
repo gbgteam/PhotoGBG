@@ -39,7 +39,7 @@ namespace DataAccess.Entities
             get; 
             set; 
         }
-        public Boolean Photographer
+        public int Role
         {
             get;
             set;

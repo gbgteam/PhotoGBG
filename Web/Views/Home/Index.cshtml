@@ -13,23 +13,12 @@
 
 <div id="body">
     <h2>Index</h2>
-    <div>
-        <table>
-            <thead>
-                <tr>
-                    <td>Id</td>
-                    <td>Name</td>
-                    <td>AddedBy</td>
-                </tr>
-            </thead>
-            <tbody data-bind="foreach: Tags">
-                <tr>
-                    <td data-bind="text: Id"></td>
-                    <td data-bind="text: Name"></td>
-                    <td data-bind="text: AddedBy"></td>
-                </tr>
-            </tbody>
-        </table>
+    <div class="tabbable tabs-left">
+        <ul class="nav nav-tabs" data-bind="foreach: Tags">
+            <li><a data-bind="text: Name"></a></li>
+        </ul>
     </div>
-    
+    <div class="clear">
+
+    </div>
 </div>
