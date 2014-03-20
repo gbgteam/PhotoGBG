@@ -17,7 +17,5 @@ namespace DataAccessAbstraction.Entities
         string Telephone { get; set; }
         string Description { get; set; }
         long rol_id { get; set; }
-        int Role { get; set; }
-
     }
 }

@@ -57,11 +57,5 @@ namespace DataAccess.Entities
 
         }
 
-        public int Role
-
-        {
-            get;
-            set;
-        }
     }
 }
