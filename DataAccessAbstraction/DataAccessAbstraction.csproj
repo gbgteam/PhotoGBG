@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="Entities\IPhoto.cs" />
     <Compile Include="Entities\IPhotoTagUnion.cs" />
+    <Compile Include="Entities\IRolID.cs" />
     <Compile Include="Entities\ITag.cs" />
     <Compile Include="Entities\IUser.cs" />
     <Compile Include="Entities\IUserAndPhotographer.cs" />

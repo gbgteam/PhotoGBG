@@ -10,7 +10,7 @@ namespace DataAccessAbstraction.Entities
     {
         long Id { get; set; }
         string Link { get; set; }
-        string AddedBy { get; set; } //username field from user db
+        long AddedBy { get; set; } //id field from user db
         long Views { get; set; }
         long Likes { get; set; }
         string Description { get; set; }

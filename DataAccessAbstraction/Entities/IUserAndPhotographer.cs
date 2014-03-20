@@ -8,12 +8,14 @@ namespace DataAccessAbstraction.Entities
 {
     public interface IUserAndPhotographer
     {
+        long id { get; set; }
         string Username { get; set; }
         string Password { get; set; }
         string Name { get; set; }
         string Country { get; set; }
+        string City { get; set; }
         string Telephone { get; set; }
         string Description { get; set; }
-        Boolean Photographer { get; set; }
+        long rol_id { get; set; }
     }
 }

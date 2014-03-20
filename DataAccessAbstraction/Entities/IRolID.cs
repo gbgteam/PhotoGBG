@@ -6,10 +6,9 @@ using System.Threading.Tasks;
 
 namespace DataAccessAbstraction.Entities
 {
-    public interface ITag
+    interface IRolID
     {
-        long Id { get; set; }
-        string Name { get; set; }
-        long AddedBy { get; set; } //id field from user db
+        long id { get; set; }
+        string rol_name { get; set; }
     }
 }

@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Entities\Photos.cs" />
+    <Compile Include="Entities\RolID.cs" />
     <Compile Include="Entities\Tag.cs" />
     <Compile Include="Entities\UserAndPhotographer.cs" />
     <Compile Include="OperationResponse.cs" />

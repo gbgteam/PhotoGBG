@@ -19,7 +19,7 @@ namespace DataAccess.Entities
             get;
             set;
         }
-        public string AddedBy
+        public long AddedBy
         {
             get;
             set;

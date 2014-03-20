@@ -22,18 +22,12 @@ namespace ImageConverter
                 
                 EncoderParameters myEncoderParameters = new EncoderParameters(1);
 
-                EncoderParameter myEncoderParameter = new EncoderParameter(myEncoder,50L);
+                EncoderParameter myEncoderParameter = new EncoderParameter(myEncoder,75L);
                 myEncoderParameters.Param[0] = myEncoderParameter;
-                bmp1.Save(@"d:\TestPhotoQualityFifty.jpg", jgpEncoder,myEncoderParameters);
+                bmp1.Save(@"d:\TestPhotoQuality75.jpg", jgpEncoder,myEncoderParameters);
 
-                //myEncoderParameter = new EncoderParameter(myEncoder, 100L);
-                //myEncoderParameters.Param[0] = myEncoderParameter;
-                //bmp1.Save(@"d:\TestPhotoQualityHundred.jpg", jgpEncoder,myEncoderParameters);
 
-                //myEncoderParameter = new EncoderParameter(myEncoder, 0L);
-                //myEncoderParameters.Param[0] = myEncoderParameter;
-                //bmp1.Save(@"d:\TestPhotoQualityZero.jpg", jgpEncoder,
-                //    myEncoderParameters);
+
         }
 
 
