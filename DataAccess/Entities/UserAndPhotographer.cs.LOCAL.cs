@@ -49,16 +49,7 @@ namespace DataAccess.Entities
             get; 
             set; 
         }
-
         public long rol_id
-        {
-            get;
-            set;
-
-        }
-
-        public int Role
-
         {
             get;
             set;

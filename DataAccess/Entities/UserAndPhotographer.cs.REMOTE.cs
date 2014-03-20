@@ -9,11 +9,6 @@ namespace DataAccess.Entities
 {
     class UserAndPhotographer:IUserAndPhotographer
     {
-        public long id
-        {
-            get;
-            set;
-        }
         public string Username 
         {
             get; 
@@ -34,11 +29,6 @@ namespace DataAccess.Entities
             get; 
             set; 
         }
-        public string City
-        {
-            get;
-            set;
-        }
         public string Telephone 
         { 
             get; 
@@ -49,16 +39,7 @@ namespace DataAccess.Entities
             get; 
             set; 
         }
-
-        public long rol_id
-        {
-            get;
-            set;
-
-        }
-
         public int Role
-
         {
             get;
             set;
