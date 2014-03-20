@@ -16,6 +16,10 @@ namespace DataAccessAbstraction.Entities
         string City { get; set; }
         string Telephone { get; set; }
         string Description { get; set; }
+<<<<<<< HEAD
         long rol_id { get; set; }
+=======
+        int Role { get; set; }
+>>>>>>> 515ef30dafdf14b7fd2b0ddfe1d7d2f63d376952
     }
 }

@@ -1,0 +1,9 @@
+E:\proiecte\PhotoGBG\PhotoGBG\DataAccessAbstraction\bin\Debug\DataAccessAbstraction.dll.config
+E:\proiecte\PhotoGBG\PhotoGBG\DataAccessAbstraction\bin\Debug\DataAccessAbstraction.dll
+E:\proiecte\PhotoGBG\PhotoGBG\DataAccessAbstraction\bin\Debug\DataAccessAbstraction.pdb
+E:\proiecte\PhotoGBG\PhotoGBG\DataAccessAbstraction\obj\Debug\DataAccessAbstraction.dll
+E:\proiecte\PhotoGBG\PhotoGBG\DataAccessAbstraction\obj\Debug\DataAccessAbstraction.pdb
+E:\proiecte\PhotoGBG\PhotoGBG\DataAccessAbstraction\bin\Debug\AutoMapper.Net4.dll
+E:\proiecte\PhotoGBG\PhotoGBG\DataAccessAbstraction\bin\Debug\AutoMapper.dll
+E:\proiecte\PhotoGBG\PhotoGBG\DataAccessAbstraction\bin\Debug\AutoMapper.xml
+E:\proiecte\PhotoGBG\PhotoGBG\DataAccessAbstraction\obj\Debug\DataAccessAbstraction.csprojResolveAssemblyReference.cache

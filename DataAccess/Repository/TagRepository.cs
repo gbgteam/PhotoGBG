@@ -8,6 +8,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Data.SqlClient;
+using Microsoft.ApplicationBlocks.Data;
+using DataAccess.Adapter;
 
 namespace DataAccess.Repository
 {
@@ -50,6 +52,11 @@ namespace DataAccess.Repository
             }
         }
 
+        public IOperationResponse<ITag> Edit(ITag tag)
+        {
+            return null;
+        }
+
         public IOperationResponse<List<ITag>> GetAllPredefinedTags()
         {
             try
@@ -57,11 +64,17 @@ namespace DataAccess.Repository
                 List<ITag> list = new List<ITag>();
                 DataSet ds = new DataSet();
 
-                System.Data.SqlClient();
+                SqlHelper.FillDataset(_connectionString,CommandType.Text,GET_ALL_TAGS,ds,new string[] {"Tags"});
+                if (ds.Tables.Count > 0)
+                {
+                    TagAdapter adapter = new TagAdapter();
+                    list = adapter.GetItems(ds.Tables[0]);
+                }
 
                 return new OperationResponse<List<ITag>>()
                 {
-                    IsSuccess = true
+                    IsSuccess = true,
+                    Value=list
                 };
             }
             catch (Exception ex)
@@ -73,6 +86,11 @@ namespace DataAccess.Repository
                 };
             }
      
+        }
+
+        public IOperationResponse Delete(long id)
+        {
+            return null;
         }
     }
 }

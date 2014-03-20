@@ -49,7 +49,11 @@ namespace DataAccess.Entities
             get; 
             set; 
         }
+<<<<<<< HEAD
         public long rol_id
+=======
+        public int Role
+>>>>>>> 515ef30dafdf14b7fd2b0ddfe1d7d2f63d376952
         {
             get;
             set;

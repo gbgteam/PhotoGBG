@@ -1,0 +1,13 @@
+E:\proiecte\PhotoGBG\PhotoGBG\ViewModel\bin\Debug\ViewModel.dll.config
+E:\proiecte\PhotoGBG\PhotoGBG\ViewModel\bin\Debug\ViewModel.dll
+E:\proiecte\PhotoGBG\PhotoGBG\ViewModel\bin\Debug\ViewModel.pdb
+E:\proiecte\PhotoGBG\PhotoGBG\ViewModel\obj\Debug\ViewModel.csprojResolveAssemblyReference.cache
+E:\proiecte\PhotoGBG\PhotoGBG\ViewModel\obj\Debug\ViewModel.dll
+E:\proiecte\PhotoGBG\PhotoGBG\ViewModel\obj\Debug\ViewModel.pdb
+E:\proiecte\PhotoGBG\PhotoGBG\ViewModel\bin\Debug\AutoMapper.Net4.dll
+E:\proiecte\PhotoGBG\PhotoGBG\ViewModel\bin\Debug\AutoMapper.dll
+E:\proiecte\PhotoGBG\PhotoGBG\ViewModel\bin\Debug\DataAccess.dll
+E:\proiecte\PhotoGBG\PhotoGBG\ViewModel\bin\Debug\DataAccessAbstraction.dll
+E:\proiecte\PhotoGBG\PhotoGBG\ViewModel\bin\Debug\DataAccessAbstraction.pdb
+E:\proiecte\PhotoGBG\PhotoGBG\ViewModel\bin\Debug\DataAccess.pdb
+E:\proiecte\PhotoGBG\PhotoGBG\ViewModel\bin\Debug\AutoMapper.xml
